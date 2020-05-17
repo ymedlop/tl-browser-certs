@@ -2,4 +2,4 @@
  Browse the [national eIDAS Trusted Lists and the EU List of eIDAS Trusted Lists (LOTL)](https://webgate.ec.europa.eu/tl-browser/#/) 
  
  
-Generated at **Sat 05/16/2020  0:02:05.46** by [node-tl-browse](https://github.com/ymedlop/node-tl-browser) using Azure Devops 
+Generated at **Sun 05/17/2020  0:02:31.31** by [node-tl-browse](https://github.com/ymedlop/node-tl-browser) using Azure Devops 
